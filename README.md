@@ -1,7 +1,15 @@
-- 🔭 Hoje Trabalho com Fron-End ...
-- 🌱 Estudando React e TypeScript ...
-- 💬 Pergunte-me sobre Html Css e JavaScript...
-- 😄 Pronouns: ele/dele ...
+- Trabalho com:
+-   Front-End (HTML, CSS, JavaScript { TypeScript, React } ).
+-   Back-End (ASP NET CORE {Web Api´s e MVC } )
+-   Banco de dados (SQL Server, Oracle { Um pouco } )
+
+Experiências:
+  * Criação e manutenção de Banco de Dados ( Formas Normais ), Criação de Back-ends Asp Net Core e utilização de tecnologias como: React e TypeScript.
+  * Já crie projetos com conexão a AWS, projetos de armazenamento de arquivos no S3 (AWS).
+  * 3 anos de estudo de programação.
+  * Experiência com geração de relatórios, gráficos e mapas.
+  * Segurança digital, algumas partes de criptografia.
+  * Consumo de API´s externas
 
 
 <div align="center">
