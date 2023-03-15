@@ -1,4 +1,4 @@
-- Trabalho com:
+Trabalho com:
 -   Front-End (HTML, CSS, JavaScript { TypeScript, React } ).
 -   Back-End (ASP NET CORE {Web Api´s e MVC } )
 -   Banco de dados (SQL Server, Oracle { Um pouco } )
